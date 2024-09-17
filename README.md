@@ -48,3 +48,4 @@ If you wish to contribute to this list please raise a pull request here or drop 
 - [HPC Wire](https://www.hpcwire.com)
 - [Inside HPC](https://insidehpc.com)
 - [Flux by HMx Labs](https://cloudhpc.news)
+- [The Forbidden Unix](https://www.linkedin.com/company/forbiddenunix/posts/?feedView=all)
