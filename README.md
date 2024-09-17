@@ -1,4 +1,5 @@
 # HPC Catalog
+![HPC Catalog Image](hpc-catalog.jpg)
 
 A community driven catalog of tools and products that are useful in the world of high performance computing (HPC)
 
