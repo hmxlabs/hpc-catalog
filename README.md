@@ -20,12 +20,14 @@ If you wish to contribute to this list please raise a pull request here or drop 
 - [Slurm](https://slurm.schedmd.com)
 - [Open PBS](https://www.openpbs.org)
 - [Son of Grid Engine (SGE)](https://sourceforge.net/projects/gridengine)
+- [HPC Gridware (modern remake of SGE)](https://www.hpc-gridware.com)
 - [Open Cluster Scheduler](https://github.com/hpc-gridware/clusterscheduler)
 - [AWS Parallel Cluster](https://github.com/aws/aws-parallelcluster)
 - [Trinity X](https://github.com/clustervision/trinityX)
 - [IBM Spectrum Symphony](https://www.ibm.com/products/analytics-workload-management)
 - [Tibco DataSynapse](https://docs.tibco.com/products/tibco-datasynapse-gridserver-manager-7-1-0)
 - [ArmoniK](https://www.aneo.eu/en/armonik)
+- [HTC-Grid](https://github.com/finos/htc-grid)
 - [AWS Batch](https://aws.amazon.com/batch/)
 - [Azure Batch](https://learn.microsoft.com/en-us/azure/batch/)
 
@@ -51,4 +53,12 @@ If you wish to contribute to this list please raise a pull request here or drop 
 - [The Forbidden Unix](https://www.linkedin.com/company/forbiddenunix/posts/?feedView=all)
 
 # HPC Community Engagement
-- [HPC.social](https://hpc.social) - [Slack](https://hpc.social/projects/chat/), [Discord](https://hpc.social/projects/chat/), [blogs](https://hpc.social/projects/blog/), [community map](https://hpc.social/map/), [Good First Issues catalog](https://hpc-social.github.io/good-first-issues/), [Mastodon](https://mast.hpc.social/), [BlueSky](https://bsky.app/profile/hpc.social), and more
+- [HPC.social](https://hpc.social) 
+- [Slack](https://hpc.social/projects/chat/), 
+- [Discord](https://hpc.social/projects/chat/), 
+- [blogs](https://hpc.social/projects/blog/), 
+- [community map](https://hpc.social/map/), 
+- [Good First Issues catalog](https://hpc-social.github.io/good-first-issues/), 
+- [Mastodon](https://mast.hpc.social/), 
+- [BlueSky](https://bsky.app/profile/hpc.social)
+
