@@ -20,6 +20,7 @@ If you wish to contribute to this list please raise a pull request here or drop 
 - [Slurm](https://slurm.schedmd.com)
 - [Open PBS](https://www.openpbs.org)
 - [Son of Grid Engine (SGE)](https://sourceforge.net/projects/gridengine)
+- [HPC Gridware (modern remake of SGE)](https://www.hpc-gridware.com)
 - [Open Cluster Scheduler](https://github.com/hpc-gridware/clusterscheduler)
 - [AWS Parallel Cluster](https://github.com/aws/aws-parallelcluster)
 - [Trinity X](https://github.com/clustervision/trinityX)
