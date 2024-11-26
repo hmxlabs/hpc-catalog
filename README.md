@@ -3,7 +3,7 @@
 
 A community driven catalog of tools and products that are useful in the world of high performance computing (HPC)
 
-This content has been contributed to by numerous people and started life as a post on [HMx Labs Flux](https://cloudhpc.news/hpc-product-directory/) and [Linked In](https://www.linkedin.com/posts/hamza_high-performance-computing-is-a-funny-fragmented-activity-7240252941645815808-caCq?utm_source=share&utm_medium=member_desktop).
+This content has been contributed to by numerous people and started life as a post on [HMx Labs Flux](https://cloudhpc.news/hpc-product-directory/) and [Linked In](https://www.linkedin.com/posts/hamza_high-performance-computing-is-a-funny-fragmented-activity-7240252941645815808-caCq?utm_source=share&utm_medium=member_desktop). The later after SC24 on [BlueSky](https://bsky.app/profile/hpcwrangler.com/post/3lbosls3kes2g) too.
 
 If you wish to contribute to this list please raise a pull request here or drop us an email.
 
@@ -57,11 +57,11 @@ There continues to be engagement and a community willingness to maintain this so
 
 # HPC Community Engagement
 - [HPC.social](https://hpc.social) 
-- [Slack](https://hpc.social/projects/chat/), 
-- [Discord](https://hpc.social/projects/chat/), 
-- [blogs](https://hpc.social/projects/blog/), 
-- [community map](https://hpc.social/map/), 
-- [Good First Issues catalog](https://hpc-social.github.io/good-first-issues/), 
-- [Mastodon](https://mast.hpc.social/), 
-- [BlueSky](https://bsky.app/profile/hpc.social)
-
+    - [Slack](https://hpc.social/projects/chat/)
+    - [Discord](https://hpc.social/projects/chat/)
+    - [blogs](https://hpc.social/projects/blog/)
+    - [community map](https://hpc.social/map/)
+    - [Good First Issues catalog](https://hpc-social.github.io/good-first-issues/)
+    - [Mastodon](https://mast.hpc.social/) 
+    - [BlueSky](https://bsky.app/profile/hpc.social)
+- [BlueSky HPC Starter Pack](https://bsky.app/starter-pack-short/7NSBuP1)
