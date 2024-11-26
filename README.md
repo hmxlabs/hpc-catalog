@@ -51,3 +51,14 @@ If you wish to contribute to this list please raise a pull request here or drop 
 - [Inside HPC](https://insidehpc.com)
 - [Flux by HMx Labs](https://cloudhpc.news)
 - [The Forbidden Unix](https://www.linkedin.com/company/forbiddenunix/posts/?feedView=all)
+
+# HPC Community Engagement
+- [HPC.social](https://hpc.social) 
+- [Slack](https://hpc.social/projects/chat/), 
+- [Discord](https://hpc.social/projects/chat/), 
+- [blogs](https://hpc.social/projects/blog/), 
+- [community map](https://hpc.social/map/), 
+- [Good First Issues catalog](https://hpc-social.github.io/good-first-issues/), 
+- [Mastodon](https://mast.hpc.social/), 
+- [BlueSky](https://bsky.app/profile/hpc.social)
+
