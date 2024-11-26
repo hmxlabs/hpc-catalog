@@ -7,6 +7,8 @@ This content has been contributed to by numerous people and started life as a po
 
 If you wish to contribute to this list please raise a pull request here or drop us an email.
 
+There continues to be engagement and a community willingness to maintain this so I will continue to do so. However it should be noted this rather fantastic resource also exists [Awesome HPC](https://github.com/dstdev/awesome-hpc)
+
 # Integrated Solutions
 - [AWS Parallel Compute Service](https://aws.amazon.com/pcs)
 - [Slurm GCP](https://github.com/GoogleCloudPlatform/slurm-gcp)
@@ -28,6 +30,7 @@ If you wish to contribute to this list please raise a pull request here or drop 
 - [Tibco DataSynapse](https://docs.tibco.com/products/tibco-datasynapse-gridserver-manager-7-1-0)
 - [ArmoniK](https://www.aneo.eu/en/armonik)
 - [HTC-Grid](https://github.com/finos/htc-grid)
+- [Flux Framework](https://flux-framework.org/)
 - [AWS Batch](https://aws.amazon.com/batch/)
 - [Azure Batch](https://learn.microsoft.com/en-us/azure/batch/)
 
