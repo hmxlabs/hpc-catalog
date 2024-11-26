@@ -26,6 +26,7 @@ If you wish to contribute to this list please raise a pull request here or drop 
 - [IBM Spectrum Symphony](https://www.ibm.com/products/analytics-workload-management)
 - [Tibco DataSynapse](https://docs.tibco.com/products/tibco-datasynapse-gridserver-manager-7-1-0)
 - [ArmoniK](https://www.aneo.eu/en/armonik)
+- [HTC-Grid](https://github.com/finos/htc-grid)
 - [AWS Batch](https://aws.amazon.com/batch/)
 - [Azure Batch](https://learn.microsoft.com/en-us/azure/batch/)
 
