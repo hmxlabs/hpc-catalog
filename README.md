@@ -37,8 +37,6 @@ There continues to be engagement and a community willingness to maintain this so
 # Infrastructure/ Hardware Orchestration
 - [Azure Cycle Cloud](https://learn.microsoft.com/en-us/azure/cyclecloud/overview?view=cyclecloud-8)
 
-# Observability
-
 # Cloud Primitives
 - [AWS Fleet](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Fleets.html)
 - [Azure VMSS](https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
@@ -48,6 +46,10 @@ There continues to be engagement and a community willingness to maintain this so
 - [Spack](https://spack.io)
 - [EasyBuild](https://easybuild.io)
 - [Google Cloud Cluster Toolkit](https://cloud.google.com/cluster-toolkit/docs/overview)
+
+# Learning Resources
+- [The Art of HPC](https://theartofhpc.com)
+- Building Clustered Linux Systems [Archive.org](https://archive.org/details/buildingclustere0000luck/page/612/mode/2up) | [Amazon](https://www.amazon.co.uk/Building-Clustered-Systems-Hewlett-Packard-Professional/dp/0131448536)
 
 # HPC News
 - [HPC Wire](https://www.hpcwire.com)
