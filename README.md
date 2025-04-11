@@ -50,6 +50,7 @@ There continues to be engagement and a community willingness to maintain this so
 # Learning Resources
 - [The Art of HPC](https://theartofhpc.com)
 - Building Clustered Linux Systems [Archive.org](https://archive.org/details/buildingclustere0000luck/page/612/mode/2up) | [Amazon](https://www.amazon.co.uk/Building-Clustered-Systems-Hewlett-Packard-Professional/dp/0131448536)
+- [High Performance Computing for Dummies](http://hpc.fs.uni-lj.si/sites/default/files/HPC_for_dummies.pdf)
 
 # HPC News
 - [HPC Wire](https://www.hpcwire.com)
