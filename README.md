@@ -27,6 +27,7 @@ There continues to be engagement and a community willingness to maintain this so
 - [AWS Parallel Cluster](https://github.com/aws/aws-parallelcluster)
 - [Trinity X](https://github.com/clustervision/trinityX)
 - [IBM Spectrum Symphony](https://www.ibm.com/products/analytics-workload-management)
+- [IBM LSF](https://www.ibm.com/products/hpc-workload-management)
 - [Tibco DataSynapse](https://docs.tibco.com/products/tibco-datasynapse-gridserver-manager-7-1-0)
 - [ArmoniK](https://www.aneo.eu/en/armonik)
 - [HTC-Grid](https://github.com/finos/htc-grid)
