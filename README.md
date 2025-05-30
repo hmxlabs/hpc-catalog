@@ -34,6 +34,7 @@ There continues to be engagement and a community willingness to maintain this so
 - [Flux Framework](https://flux-framework.org/)
 - [AWS Batch](https://aws.amazon.com/batch/)
 - [Azure Batch](https://learn.microsoft.com/en-us/azure/batch/)
+- [Flux Framework](https://flux-framework.org/)
 
 # Infrastructure/ Hardware Orchestration
 - [Azure Cycle Cloud](https://learn.microsoft.com/en-us/azure/cyclecloud/overview?view=cyclecloud-8)
@@ -56,8 +57,9 @@ There continues to be engagement and a community willingness to maintain this so
 # HPC News
 - [HPC Wire](https://www.hpcwire.com)
 - [Inside HPC](https://insidehpc.com)
+- [The Next Platform](https://www.nextplatform.com)
 - [Flux by HMx Labs](https://cloudhpc.news)
-- [The Forbidden Unix](https://www.linkedin.com/company/forbiddenunix/posts/?feedView=all)
+- [The Register](https://search.theregister.com/?q=HPC)
 
 # HPC Community Engagement
 - [HPC.social](https://hpc.social) 
