@@ -26,8 +26,9 @@ A collection of terms and acronyms commonly used in High Performance Computing (
 
 ## H
 - **HPC**: High Performance Computing, the use of supercomputers and parallel processing to solve complex computational problems.
-- **HTC**: High Throughput Computing, a computing paradigm focused on maximizing the number of completed tasks over time, often used in scenarios where tasks are independent and can be processed in parallel.
+- **HPL**: High-Performance Linpack, a benchmark used to measure the performance of supercomputers, specifically their ability to solve systems of linear equations.
 - **HPSF**: High Performance Software Foundation. An open-source software foundation focused on high-performance computing and related technologies owned by the Linux Foundation.
+- **HTC**: High Throughput Computing, a computing paradigm focused on maximizing the number of completed tasks over time, often used in scenarios where tasks are independent and can be processed in parallel.
 - **HTCondor**: A workload management system for distributed computing environments, often used in HPC clusters.
 
 ## I
